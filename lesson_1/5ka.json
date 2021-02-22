@@ -1,0 +1,258 @@
+{
+  "next": "https://5ka.ru/api/v2/special_offers/?page=2&records_per_page=12",
+  "previous": null,
+  "results": [
+    {
+      "id": 9782,
+      "name": "МОЯ СЕМЬЯ Нап.ЯБЛ.МИКС с/сод.из ябл175мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3685475.jpg",
+      "plu": 3685475,
+      "promo": {
+        "id": 1155586802,
+        "date_begin": "2021-01-31",
+        "date_end": "2021-03-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 9
+      },
+      "current_prices": {
+        "price_reg__min": 14.49,
+        "price_promo__min": 12.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 9783,
+      "name": "Напиток Моя семья, ананс-манго-маракуя, 175 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3685546.jpg",
+      "plu": 3685546,
+      "promo": {
+        "id": 1155586802,
+        "date_begin": "2021-01-31",
+        "date_end": "2021-03-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 9
+      },
+      "current_prices": {
+        "price_reg__min": 14.49,
+        "price_promo__min": 12.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 4015,
+      "name": "MIXBAR Кукуруза ПОПКОРН СЛАД-СОЛ.лоп.50г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3656255.jpg",
+      "plu": 3656255,
+      "promo": {
+        "id": 1155586991,
+        "date_begin": "2021-01-31",
+        "date_end": "2021-03-03",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 15.99,
+        "price_promo__min": 13.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 9773,
+      "name": "Сок Honey Kid, яблоко, 200 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3684252.jpg",
+      "plu": 3684252,
+      "promo": {
+        "id": 1155586802,
+        "date_begin": "2021-01-31",
+        "date_end": "2021-03-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 9
+      },
+      "current_prices": {
+        "price_reg__min": 15.99,
+        "price_promo__min": 14.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 9774,
+      "name": "Сок Honey Kid, мультифрукт, 200 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3684253.jpg",
+      "plu": 3684253,
+      "promo": {
+        "id": 1155586802,
+        "date_begin": "2021-01-31",
+        "date_end": "2021-03-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 9
+      },
+      "current_prices": {
+        "price_reg__min": 15.99,
+        "price_promo__min": 14.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 9775,
+      "name": "Сок Honey Kid, яблоко-вишня, 200 мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3684254.jpg",
+      "plu": 3684254,
+      "promo": {
+        "id": 1155586802,
+        "date_begin": "2021-01-31",
+        "date_end": "2021-03-02",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 9
+      },
+      "current_prices": {
+        "price_reg__min": 15.99,
+        "price_promo__min": 14.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 6094,
+      "name": "Изделия кондитерские мучные. Пирожные: БАТОНЧИК ГЛАЗИРОВАННЫЙ \"KIDDAY\"ассорти 40 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4043596.jpg",
+      "plu": 4043596,
+      "promo": {
+        "id": 1165021810,
+        "date_begin": "2021-02-16",
+        "date_end": "2021-02-22",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 1
+      },
+      "current_prices": {
+        "price_reg__min": 24.9,
+        "price_promo__min": 15.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 4164,
+      "name": "NESQUIK® . КОНФЕТА С МОЛОЧНОЙ НАЧИНКОЙ.20,5 Г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4064066.jpg",
+      "plu": 4064066,
+      "promo": {
+        "id": 1155586991,
+        "date_begin": "2021-01-31",
+        "date_end": "2021-03-03",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 10
+      },
+      "current_prices": {
+        "price_reg__min": 21.49,
+        "price_promo__min": 16.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 28195,
+      "name": "Корм консервированный полнорационный Pedigree для взрослых собак миниатюрных пород паштет с говядиной, 80г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4060059.jpg",
+      "plu": 4060059,
+      "promo": {
+        "id": 1163546757,
+        "date_begin": "2021-02-16",
+        "date_end": "2021-02-22",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 1
+      },
+      "current_prices": {
+        "price_reg__min": 19.99,
+        "price_promo__min": 16.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 28196,
+      "name": "Корм консервированный полнорационный Pedigree для взрослых собак миниатюрных пород паштет с курицей, 80г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4061858.jpg",
+      "plu": 4061858,
+      "promo": {
+        "id": 1163546757,
+        "date_begin": "2021-02-16",
+        "date_end": "2021-02-22",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 1
+      },
+      "current_prices": {
+        "price_reg__min": 19.99,
+        "price_promo__min": 16.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 28197,
+      "name": "Корм консервированный полнорационный Pedigree для взрослых собак всех пород с говядиной в соусе, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4066615.jpg",
+      "plu": 4066615,
+      "promo": {
+        "id": 1163546757,
+        "date_begin": "2021-02-16",
+        "date_end": "2021-02-22",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 1
+      },
+      "current_prices": {
+        "price_reg__min": 17.99,
+        "price_promo__min": 16.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 28198,
+      "name": "Корм консервированный полнорационный Pedigree для взрослых собак всех пород с говядиной и ягненком в соусе, 85г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4066619.jpg",
+      "plu": 4066619,
+      "promo": {
+        "id": 1163546757,
+        "date_begin": "2021-02-16",
+        "date_end": "2021-02-22",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 1
+      },
+      "current_prices": {
+        "price_reg__min": 17.99,
+        "price_promo__min": 16.99
+      },
+      "store_name": null
+    }
+  ]
+}
